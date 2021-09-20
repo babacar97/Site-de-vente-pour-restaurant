@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataSample>
+  <configurations>
+    <config><name><![CDATA[LEOSLIDESHOW_GROUP_DE]]></name><value><![CDATA[14]]></value></config>
+    <config><name><![CDATA[LEOSLIDESHOW_GROUP_DEFAULTTAB]]></name><value><![CDATA[#fieldset_5_5]]></value></config>
+</configurations>
+
+<fields objectName="LeoSlideshowGroup" objectFile="LeoSlideshowGroup.php" searchField="id_shop">
+  <field><id>14</id><title><![CDATA[slider 3]]></title><active>1</active><hook><![CDATA[]]></hook><params><![CDATA[eyJkZWxheSI6IjkwMDAiLCJzdGFydF93aXRoX3NsaWRlIjoiMSIsInRpbWVyX3Nob3ciOiIzIiwic3RvcF9vbl9ob3ZlciI6IjEiLCJzaHVmZmxlX21vZGUiOiIwIiwiZnVsbHdpZHRoIjoiZnVsbHdpZHRoIiwibWRfd2lkdGgiOiIxMiIsInNtX3dpZHRoIjoiMTIiLCJ4c193aWR0aCI6IjEyIiwiaW1hZ2VfY3JvcHBpbmciOiIwIiwid2lkdGgiOiIxNDAwIiwiaGVpZ2h0IjoiNjUwIiwibWFyZ2luIjoiMHB4IiwicGFkZGluZyI6IjBweCIsImJhY2tncm91bmRfaW1hZ2UiOiIxIiwiYmFja2dyb3VuZF91cmwiOiIiLCJiYWNrZ3JvdW5kX2NvbG9yIjoiIiwiZ3JvdXBfY2xhc3MiOiIiLCJjb250cm9sTmF2IjoiMSIsIm5hdmlnYXRvcl90eXBlIjoiYnVsbGV0IiwiZW5hYmxlX2N1c3RvbV9odG1sX2J1bGxldCI6IjAiLCJjb250cm9sTmF2VG9vbHRpcCI6IjAiLCJ0b29sdGlwWCI6IjUiLCJ0b29sdGlwWSI6Ii01IiwibmF2X3RodW1ibmFpbF93aWR0aCI6IiIsIm5hdl90aHVtYm5haWxfaGVpZ2h0IjoiIiwiY29udHJvbE5hdkhvdmVyT3BhY2l0eSI6IjAuNiIsImRpcmVjdGlvbk5hdiI6IjEiLCJkaXJlY3Rpb25OYXZIb3Zlck9wYWNpdHkiOiIwLjYiLCJrZXlib2FyZE5hdiI6IjEiLCJ0aW1lciI6IjM2MEJhciIsInRpbWVyUG9zaXRpb24iOiJ0b3AtcmlnaHQiLCJ0aW1lclgiOiIxMCIsInRpbWVyWSI6IjEwIiwidGltZXJPcGFjaXR5IjoiMC41IiwidGltZXJCZyI6IiMwMDAiLCJ0aW1lckNvbG9yIjoiI0VFRSIsInRpbWVyRGlhbWV0ZXIiOiIzMCIsInRpbWVyUGFkZGluZyI6IjQiLCJ0aW1lclN0cm9rZSI6IjMiLCJ0aW1lckJhclN0cm9rZSI6IjEiLCJ0aW1lckJhclN0cm9rZUNvbG9yIjoiI0VFRSIsInRpbWVyQmFyU3Ryb2tlU3R5bGUiOiJzb2xpZCIsImZ4IjoicmFuZG9tIiwiYW5pbWF0aW9uU3BlZWQiOiI1MDAiLCJzdHJpcHMiOiIyMCIsImJsb2NrQ29scyI6IjEwIiwiYmxvY2tSb3dzIjoiNSIsImNhcHRpb25TcGVlZCI6IjUwMCIsImNhcHRpb25PcGFjaXR5IjoiMSJ9]]></params><active_ap>1</active_ap><randkey><![CDATA[86840ce753fc38d0bf636701f99ee991]]></randkey>
+  <fields objectName="LeoSlideshowSlide" objectFile="LeoSlideshowSlide.php" searchField="id_group">
+  <field><id>29</id><active>1</active><id_group>14</id_group><position>0</position><title><en><![CDATA[malislider3-1]]></en><fr><![CDATA[malislider3-1]]></fr><de><![CDATA[malislider3-1]]></de><es><![CDATA[malislider3-1]]></es><it><![CDATA[malislider3-1]]></it><ar><![CDATA[malislider3-1]]></ar></title><link><en><![CDATA[]]></en><fr><![CDATA[]]></fr><de><![CDATA[]]></de><es><![CDATA[]]></es><it><![CDATA[]]></it><ar><![CDATA[]]></ar></link><image><en><![CDATA[malibu-slider2.jpg]]></en><fr><![CDATA[malibu-slider2.jpg]]></fr><de><![CDATA[malibu-slider2.jpg]]></de><es><![CDATA[malibu-slider2.jpg]]></es><it><![CDATA[malibu-slider2.jpg]]></it><ar><![CDATA[malibu-slider2.jpg]]></ar></image><thumbnail><en><![CDATA[]]></en><fr><![CDATA[]]></fr><de><![CDATA[]]></de><es><![CDATA[]]></es><it><![CDATA[]]></it><ar><![CDATA[]]></ar></thumbnail><params><![CDATA[eyJkZWxheSI6IjUwMDAiLCJncm91cF9pZCI6IjE0IiwiZW5hYmxlX2xpbmsiOiIxIiwidGFyZ2V0Ijoic2FtZSIsInN0YXJ0X2RhdGVfdGltZSI6IiIsImVuZF9kYXRlX3RpbWUiOiIiLCJidWxsZXRfY2xhc3MiOiIifQ==]]></params><video><en><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></en><fr><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></fr><de><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></de><es><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></es><it><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></it><ar><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></ar></video><layersparams><en><![CDATA[]]></en><fr><![CDATA[]]></fr><de><![CDATA[]]></de><es><![CDATA[]]></es><it><![CDATA[]]></it><ar><![CDATA[]]></ar></layersparams></field>
+  <field><id>30</id><active>1</active><id_group>14</id_group><position>0</position><title><en><![CDATA[malislider3-2]]></en><fr><![CDATA[malislider3-2]]></fr><de><![CDATA[malislider3-2]]></de><es><![CDATA[malislider3-2]]></es><it><![CDATA[malislider3-2]]></it><ar><![CDATA[malislider3-2]]></ar></title><link><en><![CDATA[]]></en><fr><![CDATA[]]></fr><de><![CDATA[]]></de><es><![CDATA[]]></es><it><![CDATA[]]></it><ar><![CDATA[]]></ar></link><image><en><![CDATA[malibu-slider1.jpg]]></en><fr><![CDATA[malibu-slider1.jpg]]></fr><de><![CDATA[malibu-slider1.jpg]]></de><es><![CDATA[malibu-slider1.jpg]]></es><it><![CDATA[malibu-slider1.jpg]]></it><ar><![CDATA[malibu-slider1.jpg]]></ar></image><thumbnail><en><![CDATA[]]></en><fr><![CDATA[]]></fr><de><![CDATA[]]></de><es><![CDATA[]]></es><it><![CDATA[]]></it><ar><![CDATA[]]></ar></thumbnail><params><![CDATA[eyJkZWxheSI6IjUwMDAiLCJncm91cF9pZCI6IjE0IiwiZW5hYmxlX2xpbmsiOiIxIiwidGFyZ2V0Ijoic2FtZSIsInN0YXJ0X2RhdGVfdGltZSI6IiIsImVuZF9kYXRlX3RpbWUiOiIiLCJidWxsZXRfY2xhc3MiOiIifQ==]]></params><video><en><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></en><fr><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></fr><de><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></de><es><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></es><it><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></it><ar><![CDATA[eyJ1c2V2aWRlbyI6IjAiLCJ2aWRlb2lkIjoiIiwidmlkZW9hdXRvIjoiMCIsImJhY2tncm91bmRfY29sb3IiOiIiLCJidWxsZXRfZGVzY3JpcHRpb24iOiIifQ==]]></ar></video><layersparams><en><![CDATA[]]></en><fr><![CDATA[]]></fr><de><![CDATA[]]></de><es><![CDATA[]]></es><it><![CDATA[]]></it><ar><![CDATA[]]></ar></layersparams></field>
+  </fields></field>
+</fields>
+<sql>
+<![CDATA[CREATE TABLE IF NOT EXISTS `PREFIX_leoslideshow_groups` (
+  `id_leoslideshow_groups` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `title` varchar(255) NOT NULL,
+  `id_shop` int(10) unsigned NOT NULL,
+  `hook` varchar(64) DEFAULT NULL,
+  `active` tinyint(1) unsigned NOT NULL DEFAULT '1',
+  `params` text NOT NULL,
+  `active_ap` tinyint(1) DEFAULT NULL,
+  `randkey` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id_leoslideshow_groups`,`id_shop`)
+) ENGINE=ENGINE_TYPE AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+CREATE TABLE IF NOT EXISTS `PREFIX_leoslideshow_slides` (
+  `id_leoslideshow_slides` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `id_group` int(11) NOT NULL,
+  `position` int(10) unsigned NOT NULL DEFAULT '0',
+  `active` tinyint(1) unsigned NOT NULL DEFAULT '1',
+  `params` text NOT NULL,
+  PRIMARY KEY (`id_leoslideshow_slides`)
+) ENGINE=ENGINE_TYPE AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+CREATE TABLE IF NOT EXISTS `PREFIX_leoslideshow_slides_lang` (
+  `id_leoslideshow_slides` int(10) unsigned NOT NULL,
+  `id_lang` int(10) unsigned NOT NULL,
+  `title` varchar(255) NOT NULL,
+  `link` varchar(255) NOT NULL,
+  `image` varchar(255) NOT NULL,
+  `thumbnail` varchar(255) NOT NULL,
+  `video` text,
+  `layersparams` text,
+  PRIMARY KEY (`id_leoslideshow_slides`,`id_lang`)
+) ENGINE=ENGINE_TYPE DEFAULT CHARSET=utf8;
+
+]]></sql>
+
+  <hooks>
+    <hook module="leoslideshow" hook="displayRightColumn" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="displayLeftColumn" position="7" exceptions=""/>
+    <hook module="leoslideshow" hook="displayHome" position="4" exceptions=""/>
+    <hook module="leoslideshow" hook="Header" position="7" exceptions=""/>
+    <hook module="leoslideshow" hook="displayTop" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="displayNavFullWidth" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="displayRightColumnProduct" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="displayFooterProduct" position="4" exceptions=""/>
+    <hook module="leoslideshow" hook="displayFooter" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="displayProductAdditionalInfo" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="displayLeftColumnProduct" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="displayNav1" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="displayFooterBefore" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="actionShopDataDuplication" position="4" exceptions=""/>
+    <hook module="leoslideshow" hook="displayFooterAfter" position="3" exceptions=""/>
+    <hook module="leoslideshow" hook="displayReassurance" position="4" exceptions=""/>
+    <hook module="leoslideshow" hook="displayNav2" position="3" exceptions=""/>
+  </hooks>
+</dataSample>

@@ -1,0 +1,91 @@
+1631959400
+s:6063:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Pourquoi le Revenue-Based Financing séduit les e-commerçants</title>
+    <link>https://www.prestashop.com/fr/blog/revenue-based-financing</link>
+    <description>C’est le moment d’appuyer sur l’accélérateur pour votre e-commerce.</description>
+     <pubDate>Mon, 13 Sep 2021 15:26:29 +0200</pubDate>
+ <dc:creator>Nima Karimi</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/revenue-based-financing</guid>
+  </item>
+  <item>
+    <title>Pic de fin d’année : 5 techniques pour décupler votre panier moyen</title>
+    <link>https://www.prestashop.com/fr/blog/decupler-panier-moyen</link>
+    <description>C’est la rentrée ! Après des vacances bien méritées, il est temps de préparer votre boutique pour le pic de ventes de fin d’année.</description>
+     <pubDate>Fri, 10 Sep 2021 14:35:16 +0200</pubDate>
+ <dc:creator>Roxane Tranchard</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/decupler-panier-moyen</guid>
+  </item>
+  <item>
+    <title>Six conseils pour créer une FAQ parfaite</title>
+    <link>https://www.prestashop.com/fr/blog/conseils-faq-ecommerce</link>
+    <description>Et si une foire aux questions (FAQ) pouvait booster vos ventes ?</description>
+     <pubDate>Thu, 09 Sep 2021 18:19:51 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/conseils-faq-ecommerce</guid>
+  </item>
+  <item>
+    <title>O’Barbershop, la boutique pour les barbiers et les barbus</title>
+    <link>https://www.prestashop.com/fr/blog/obarbershop-barbiers-ecommerce</link>
+    <description>À l’occasion des PrestaShop Live Talks, PrestaShop a donné la parole à Nicolas Herpin, président de O’Barbershop, un site e-commerce dédié au grooming, le soin au masculin, sur le march</description>
+     <pubDate>Tue, 07 Sep 2021 16:56:37 +0200</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/obarbershop-barbiers-ecommerce</guid>
+  </item>
+  <item>
+    <title>E-commerce et durabilité : 6 astuces pour rendre votre boutique en ligne plus écologique</title>
+    <link>https://www.prestashop.com/fr/blog/ecommerce-durabilite-ecologique</link>
+    <description>Comment le commerce en ligne pourrait-il faire l’impasse de la durabilité ? Les questions écologiques sont désormais centrales dans tous les secteurs.</description>
+     <pubDate>Mon, 06 Sep 2021 18:31:42 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ecommerce-durabilite-ecologique</guid>
+  </item>
+  <item>
+    <title>PrestaShop Live Talks : Benoît Delporte, cofondateur de la boutique Magarantie5ans</title>
+    <link>https://www.prestashop.com/fr/blog/live-talks-magarantie5ans</link>
+    <description>Chaque mois, PrestaShop donne la parole à un acteur du e-commerce, un partenaire, une agence ou un développeur… c’est le PrestaShop Live Talks.</description>
+     <pubDate>Fri, 27 Aug 2021 15:53:47 +0200</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/live-talks-magarantie5ans</guid>
+  </item>
+  <item>
+    <title>Comment utiliser la méthode d’analyse ABC pour développer votre activité en ligne ?</title>
+    <link>https://www.prestashop.com/fr/blog/methode-analyse-abc</link>
+    <description>Lorsque l’on est commerçant, les stocks sont essentiels.</description>
+     <pubDate>Wed, 25 Aug 2021 11:00:17 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/methode-analyse-abc</guid>
+  </item>
+  <item>
+    <title>Up-selling et cross-selling : comment la vente incitative peut-elle booster vos ventes ?</title>
+    <link>https://www.prestashop.com/fr/blog/upselling-crossselling</link>
+    <description>Vous voulez faire décoller vos ventes et augmenter le montant de votre panier moyen ? Les techniques ne manquent pas.</description>
+     <pubDate>Tue, 24 Aug 2021 16:57:45 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/upselling-crossselling</guid>
+  </item>
+  <item>
+    <title>Comment immatriculer votre entreprise de vente en ligne ?</title>
+    <link>https://www.prestashop.com/fr/blog/immatriculation_entreprise_ligne</link>
+    <description>Vous êtes décidé à vous lancer dans le e-commerce, mais ne savez pas par où commencer ?</description>
+     <pubDate>Mon, 23 Aug 2021 18:00:08 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/immatriculation_entreprise_ligne</guid>
+  </item>
+  <item>
+    <title>6 conseils pour adopter un marketing inclusif</title>
+    <link>https://www.prestashop.com/fr/blog/faire-marketing-inclusif</link>
+    <description>Vous souhaitez changer votre image de marque et diversifier vos cibles ? Le marketing inclusif est une solution.</description>
+     <pubDate>Tue, 17 Aug 2021 11:46:50 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/faire-marketing-inclusif</guid>
+  </item>
+  </channel>
+</rss>
+";

@@ -1,0 +1,5 @@
+****templates change:
+- templates\catalog\_partials\miniatures\product.tpl
+
+****JS change:
+- assets\js\theme.js 
